@@ -10,7 +10,9 @@
             "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
           ,
           "subtitle": "By Blender Foundation",
-          "thumb": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"
+          "thumb": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+          "timeline": "4:40"
+
         },
         {
           "title": "Elephant Dream",
@@ -19,7 +21,8 @@
             "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
           ,
           "subtitle": "By Blender Foundation",
-          "thumb": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg"
+          "thumb": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
+          "timeline": "4:40"
         },
         {
           "title": "For Bigger Blazes",
@@ -28,7 +31,8 @@
             "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
           ,
           "subtitle": "By Google",
-          "thumb": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg"
+          "thumb": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg",
+          "timeline": "4:40"
         }
       ]
     }
