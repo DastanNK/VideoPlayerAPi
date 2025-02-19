@@ -7,18 +7,18 @@
         {
           "title": "Elephant Dream",
           "description": "The first Blender Open Movie from 2006",
-          "sources": [
+          "sources": 
             "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
-          ],
+          ,
           "subtitle": "By Blender Foundation",
           "thumb": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg"
         },
         {
           "title": "For Bigger Blazes",
           "description": "HBO GO now works with Chromecast -- the easiest way to enjoy online video on your TV. For when you want to settle into your Iron Throne to watch the latest episodes. For $35.\nLearn how to use Chromecast with HBO GO and more at google.com/chromecast.",
-          "sources": [
+          "sources": 
             "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-          ],
+          ,
           "subtitle": "By Google",
           "thumb": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg"
         }
